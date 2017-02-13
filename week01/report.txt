@@ -1,0 +1,2 @@
+learn on how to use git with add,commit,pull,and push.
+making, moving, and removing directory and file in badak.
